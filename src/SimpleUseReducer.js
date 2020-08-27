@@ -28,7 +28,7 @@ export const SimpleUseReducer = () => {
               dispatch("increment")
             }}
           >
-            Increment +1
+            Increment
           </button>
           <button
             onClick={() => {
@@ -42,7 +42,7 @@ export const SimpleUseReducer = () => {
               dispatch("decrement")
             }}
           >
-            Decrement -1
+            Decrement
           </button>
         </div>
       </div>
